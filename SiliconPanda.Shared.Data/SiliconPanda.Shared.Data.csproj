@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
+    <PackageReference Include="NuGet.CommandLine" Version="4.4.1" />
+    <PackageReference Include="SiliconPanda.Shared.Core" Version="1.0.0" />
+    <PackageReference Include="SiliconPanda.Shared.Domain" Version="1.0.0" />
+    <PackageReference Include="SiliconPanda.Toolbox.AmbientContext" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
